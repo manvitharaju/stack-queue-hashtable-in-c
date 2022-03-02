@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645290012 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\hash_int_char_open_chain\open_op.c
+
+1645290245 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\hash_int_char_open_chain\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assert.h"
+	"open.h"
+
+1645290245 c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\hash_int_char_open_chain\open.h
+
