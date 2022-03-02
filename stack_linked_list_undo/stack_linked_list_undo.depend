@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645461597 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\stack_linked_list_undo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1645285081 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\student_hash_table\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assert.h"
+	"student_hash.h"
+
+1645284790 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\student_hash_table\student_hash_op.c
+	<stdio.h>
+	<stdlib.h>
+	"student_hash.h"
+
+1645284618 c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\student_hash_table\student_hash.h
+
