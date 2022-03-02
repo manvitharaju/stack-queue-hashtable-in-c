@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1645276565 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\hash_int_key_value\hash_op.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1645276667 c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\hash_int_key_value\hash.h
+
+1645276931 source:c:\users\manvi\onedrive\desktop\aiml\ads\final_lab_practice\hash_int_key_value\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assert.h"
+	"hash.h"
+
